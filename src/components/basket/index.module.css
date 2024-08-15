@@ -1,0 +1,18 @@
+.sub_main_basket img {
+    width: 40px;
+}
+
+.badge {
+    width: 22px;
+    height: 22px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 8px;
+    right: 560px;
+
+}
